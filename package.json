@@ -8,7 +8,9 @@
         "day05": "ts-node-dev src/day05.ts",
         "day06": "ts-node-dev src/day06.ts",
         "day07": "ts-node-dev src/day07.ts",
-        "day08": "ts-node-dev src/day08.ts"
+        "day08": "ts-node-dev src/day08.ts",
+        "day09": "ts-node-dev src/day09.ts",
+        "day10": "ts-node-dev src/day10.ts"
     },
     "dependencies": {
         "immutable": "^4.1.0",
